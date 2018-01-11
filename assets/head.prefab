@@ -120,11 +120,15 @@
       "__uuid__": "085cf3ee-4683-4cd5-acf3-bf5097fe6691"
     },
     "canControl": false,
-    "snakeName": null,
-    "vec": null,
+    "snakeName": "",
+    "vec": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
     "isDead": false,
-    "speet": 0.12,
-    "growingWeight": 0
+    "speed": 0,
+    "canCtrl": true
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -132,7 +136,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "ddda61e4-5287-412b-a51b-d9eb570b802d"
     },
     "fileId": "95f22zv5oNDT40RWg8FfCiA",
     "sync": false
